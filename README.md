@@ -1,10 +1,10 @@
 # Meu Portifólio
 ## Meu Portifólio Web!
-Neste projeto, desenvolvi em HTML e CSS meu portifólio, com informações como:
+Neste projeto, desenvolvi em HTML e CSS meu portfólio com 3 guias na navbar:
 
 - Contatos;
 - Projetos;
-- E meu histórico academico e profissional.
+- E meu histórico acadêmico e profissional.
 
 ## Feedback
 
